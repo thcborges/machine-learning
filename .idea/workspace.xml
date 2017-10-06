@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ba64aea-51c0-4e33-8e9e-3c1cb3982939" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/images/python_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/pyhton_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/haberman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/haberman2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/haberman3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/images/cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/images/transfer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/images/videoToLibras-grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/copacabana.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/logs.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/sin-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/machine-learning.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/.ipynb_checkpoints/Orientação a Objetos-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/.ipynb_checkpoints/Primeiros passos (2)-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/.ipynb_checkpoints/Primeiros passos-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/.ipynb_checkpoints/Programação Funcional-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/.ipynb_checkpoints/robos-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/Orientação a Objetos.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/Primeiros passos (2).ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/Primeiros passos.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/Programação Funcional.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/intro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro a Python/robos.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/Adicionando camadas escondidas com PyBrain.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet parte 2.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/Redes Neurais com PyBrain - Iris Dataset.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/iris.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/perceptron.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/rede_neural.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Redes Neurais/teste.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/.ipynb_checkpoints/dist_euclidiana-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/Untitled.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/Untitled1.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/Untitled1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/balance-scale.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/dist_euclidiana.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/haberman.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/kNN com Numpy e Sklearn.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/kNN com pandas e sklearn.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/kNN com sklearn - Dataset Iris.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/kNN com sklearn.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/knn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/test.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Classificação/train.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Regressão/Erri quadrático médio.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Regressão/kNN Regressao com sklearn.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Regressão/kNN Regressão - Dataset Diabestes.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN - Regressão/knn_regressao.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Analisando o Iris DataSet com NumPy-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Anexar valores ao final do array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Carregando dados do arquivo com NumPy-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Criando arrays de zeros e uns-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Criando uma matriz identidade-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Deletando elementos do array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Dividindo um array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Embaralhando uma sequência-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Encontrando elementos únicos de um array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Gerando arrays com linspace-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Indexação Booleana-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Inserindo elementos no array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Juntando uma sequência de arrays-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Lendo arquivos CSV com NumPy.-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Matplotlib-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/NumPy-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Números complexos com NumPy-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Repetindo com um array com tile-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Repetindo elementos de um array-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Analisando o Iris DataSet com NumPy.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Anexar valores ao final do array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Carregando dados do arquivo com NumPy.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Criando arrays de zeros e uns.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Criando uma matriz identidade.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Deletando elementos do array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Dividindo um array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Embaralhando uma sequência.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Encontrando elementos únicos de um array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Gerando arrays com linspace.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Indexação Booleana.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Inserindo elementos no array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Juntando uma sequência de arrays.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Lendo arquivos CSV com NumPy..ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Matplotlib.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/NumPy.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Números complexos com NumPy.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Repetindo com um array com tile.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy/Repetindo elementos de um array.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Carregando Dataset's com db.py-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Carregando Dataset's com pydataset-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Carregando Dataset's em CSV Excel-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Pandas DataFrame-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Pandas Idex-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Pandas Series-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Realizando Filtro Seleção em um DataFrame-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Resolvendo o problema de dados perdidos-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Trabalhando com Dados Categóricos-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualizacao 01 - Matplotlib-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualização 02 - Seaborn-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualização 05 - Gráfico de Dispersão-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualização 06 - Visualizando em mapas-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualização 07 - Customizando Eixos e Labels de um Gráfico-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Visualização 08 - Gráficos de Séries Temporais-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/pandas-06-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Carregando Dataset's com db.py.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Carregando Dataset's com pydataset.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Carregando Dataset's em CSV Excel.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Criando pivot tables.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Operacoes de aggregate e grouping no DataFrame.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Operacoes de merge (join) no DataFrame.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Pandas DataFrame.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Pandas Idex.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Pandas Series.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Realizando Filtro Seleção em um DataFrame.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Resolvendo o problema de dados perdidos.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Trabalhando com Dados Categóricos.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Trabalhando com Séries Temporais.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualizacao 01 - Matplotlib.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualização 02 - Seaborn.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualização 05 - Gráfico de Dispersão.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualização 06 - Visualizando em mapas.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualização 07 - Customizando Eixos e Labels de um Gráfico.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/Visualização 08 - Gráficos de Séries Temporais.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/copacabana.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/copacabana_lat_lng.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/pandas-06.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/ppz-jan-fev-2017.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/primary-results.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pandas/reported.csv" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/machine_learning$knn_regressao.coverage" NAME="knn_regressao Coverage Results" MODIFIED="1505710417732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN - Regressão" />
+    <SUITE FILE_PATH="coverage/machine_learning$knn.coverage" NAME="knn Coverage Results" MODIFIED="1505680847446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1507210992978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redes Neurais" />
+    <SUITE FILE_PATH="coverage/machine_learning$rede_neural.coverage" NAME="rede_neural Coverage Results" MODIFIED="1507215862774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redes Neurais" />
+    <SUITE FILE_PATH="coverage/machine_learning$machine_learning.coverage" NAME="machine-learning Coverage Results" MODIFIED="1507217153719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/machine_learning$Untitled1.coverage" NAME="Untitled1 Coverage Results" MODIFIED="1506630176393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN - Classificação" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PyBrain - Iris DataSet parte 2.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet parte 2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teste.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redes Neurais/teste.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+              <folding>
+                <element signature="n#link#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".ignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1326">
+              <caret line="78" column="61" lean-forward="true" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>B</find>
+      <find>R</find>
+      <find>Iris-virginica</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>3</replace>
+      <replace>2</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pandas/Operacoes de aggregate e grouping no DataFrame.ipynb" />
+        <option value="/code.py" />
+        <option value="$PROJECT_DIR$/pandas/Operacoes de merge (join) no DataFrame.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Trabalhando com Séries Temporais.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Criando pivot tables.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Visualizacao 01 - Matplotlib.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Visualização 08 - Gráficos de Séries Temporais.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Visualização 02 - Seaborn.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Visualização 06 - Visualizando em mapas.ipynb" />
+        <option value="$PROJECT_DIR$/pandas/Visualização 05 - Gráfico de Dispersão.ipynb" />
+        <option value="$PROJECT_DIR$/kNN/knn_sklearn.py" />
+        <option value="$PROJECT_DIR$/kNN/kNN com sklearn.ipynb" />
+        <option value="$PROJECT_DIR$/kNN/balance-scale.data" />
+        <option value="$PROJECT_DIR$/kNN/knn.py" />
+        <option value="$PROJECT_DIR$/kNN/kNN com Numpy e Sklearn.ipynb" />
+        <option value="$PROJECT_DIR$/kNN/kNN com pandas e sklearn.ipynb" />
+        <option value="$PROJECT_DIR$/kNN/kNN com sklearn - Dataset Iris.ipynb" />
+        <option value="$PROJECT_DIR$/kNN - Regressão/knn_regressao.py" />
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/sandbox/sysreg.py" />
+        <option value="$PROJECT_DIR$/kNN - Regressão/kNN Regressao com sklearn.ipynb" />
+        <option value="$PROJECT_DIR$/kNN - Regressão/Erri quadrático médio.ipynb" />
+        <option value="$PROJECT_DIR$/kNN - Regressão/kNN Regressão - Dataset Diabestes.ipynb" />
+        <option value="$PROJECT_DIR$/Redes Neurais/perceptron.py" />
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/pybrain/supervised/trainers/backprop.py" />
+        <option value="$PROJECT_DIR$/Redes Neurais/rede_neural.py" />
+        <option value="$PROJECT_DIR$/Redes Neurais/iris.data" />
+        <option value="$PROJECT_DIR$/Redes Neurais/Redes Neurais com PyBrain - Iris Dataset.ipynb" />
+        <option value="$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet.py" />
+        <option value="$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet.ipynb" />
+        <option value="$PROJECT_DIR$/Redes Neurais/Adicionando camadas escondidas com PyBrain.ipynb" />
+        <option value="$PROJECT_DIR$/kNN - Classificação/Untitled1.ipynb" />
+        <option value="$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet parte 2.ipynb" />
+        <option value="$PROJECT_DIR$/Redes Neurais/teste.html" />
+        <option value="$PROJECT_DIR$/.ignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="-8" />
+    <option name="width" value="1319" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="kNN - Classificação" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-full-stack" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\thcborges\OneDrive\Cursos\Udemy\machine-learning\kNN" />
+      <recent name="E:\thcborges\OneDrive\Cursos\Udemy\machine-learning\pandas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\thcborges\OneDrive\Cursos\Udemy\machine-learning\kNN - Classificação" />
+      <recent name="E:\thcborges\OneDrive\Cursos\Udemy\machine-learning\pandas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rede_neural">
+    <configuration name="Untitled1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN - Classificação" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN - Classificação/Untitled1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="knn_regressao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN - Regressão" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN - Regressão/knn_regressao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="machine-learning" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thcbo\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redes Neurais" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redes Neurais/perceptron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="rede_neural" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redes Neurais" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redes Neurais/rede_neural.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.machine-learning" />
+      <item index="1" class="java.lang.String" itemvalue="Python.knn" />
+      <item index="2" class="java.lang.String" itemvalue="Python.knn_regressao" />
+      <item index="3" class="java.lang.String" itemvalue="Python.perceptron" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Untitled1" />
+      <item index="5" class="java.lang.String" itemvalue="Python.rede_neural" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.rede_neural" />
+        <item index="1" class="java.lang.String" itemvalue="Python.perceptron" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Untitled1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.knn_regressao" />
+        <item index="4" class="java.lang.String" itemvalue="Python.knn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ba64aea-51c0-4e33-8e9e-3c1cb3982939" name="Default" comment="" />
+      <created>1505220428349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505220428349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="-8" width="1315" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2119522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29984543" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38330758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kNN - Regressão/knn_regressao.py</url>
+          <line>21</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.y" language="Python" />
+        <watch expression="indice" language="Python" />
+        <watch expression="k_vizinhos" language="Python" />
+        <watch expression="self.y[indice]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="461" column="31" lean-forward="false" selection-start-line="461" selection-start-column="25" selection-end-line="461" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="461" column="31" lean-forward="false" selection-start-line="461" selection-start-column="25" selection-end-line="461" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/tests/test_grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="719" column="31" lean-forward="false" selection-start-line="719" selection-start-column="25" selection-end-line="719" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/tests/test_grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="719" column="31" lean-forward="false" selection-start-line="719" selection-start-column="25" selection-end-line="719" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/nltk/tag/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="47" column="38" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/emplike/originregress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/ensemble/bagging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="928" column="31" lean-forward="false" selection-start-line="928" selection-start-column="25" selection-end-line="928" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/ensemble/bagging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="928" column="31" lean-forward="false" selection-start-line="928" selection-start-column="25" selection-end-line="928" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/ensemble/gradient_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1875" column="31" lean-forward="false" selection-start-line="1875" selection-start-column="25" selection-end-line="1875" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/ensemble/gradient_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1875" column="31" lean-forward="false" selection-start-line="1875" selection-start-column="25" selection-end-line="1875" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/model_selection/tests/test_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="209" column="31" lean-forward="false" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/model_selection/tests/test_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="209" column="31" lean-forward="false" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="451" column="31" lean-forward="false" selection-start-line="451" selection-start-column="25" selection-end-line="451" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="451" column="31" lean-forward="false" selection-start-line="451" selection-start-column="25" selection-end-line="451" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1103" column="31" lean-forward="false" selection-start-line="1103" selection-start-column="25" selection-end-line="1103" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1103" column="31" lean-forward="false" selection-start-line="1103" selection-start-column="25" selection-end-line="1103" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/genmod/generalized_linear_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="716" column="36" lean-forward="false" selection-start-line="716" selection-start-column="30" selection-end-line="716" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/ensemble/weight_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1075" column="31" lean-forward="false" selection-start-line="1075" selection-start-column="25" selection-end-line="1075" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/ensemble/weight_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1075" column="31" lean-forward="false" selection-start-line="1075" selection-start-column="25" selection-end-line="1075" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/miscmodels/nonlinls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="126" column="34" lean-forward="false" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/cluster/birch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="548" column="31" lean-forward="false" selection-start-line="548" selection-start-column="25" selection-end-line="548" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/cluster/birch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="548" column="31" lean-forward="false" selection-start-line="548" selection-start-column="25" selection-end-line="548" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/utils/tests/test_estimator_checks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="118" column="31" lean-forward="false" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/stochastic_gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1068" column="31" lean-forward="false" selection-start-line="1068" selection-start-column="25" selection-end-line="1068" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="442" column="31" lean-forward="false" selection-start-line="442" selection-start-column="25" selection-end-line="442" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="442" column="31" lean-forward="false" selection-start-line="442" selection-start-column="25" selection-end-line="442" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/cluster/k_means_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1546" column="31" lean-forward="false" selection-start-line="1546" selection-start-column="25" selection-end-line="1546" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/cluster/k_means_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1546" column="31" lean-forward="false" selection-start-line="1546" selection-start-column="25" selection-end-line="1546" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/linear_model/stochastic_gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1068" column="31" lean-forward="false" selection-start-line="1068" selection-start-column="25" selection-end-line="1068" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-378951783/sklearn/tree/_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="918" column="34" lean-forward="false" selection-start-line="918" selection-start-column="28" selection-end-line="918" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/statsmodels/sandbox/sysreg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="253" column="36" lean-forward="false" selection-start-line="253" selection-start-column="30" selection-end-line="253" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/pkgs/scikit-learn-0.19.0-np112py36_0/Lib/site-packages/sklearn/utils/tests/test_estimator_checks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="118" column="31" lean-forward="false" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/covariance/outlier_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="147" column="31" lean-forward="false" selection-start-line="147" selection-start-column="25" selection-end-line="147" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Regressão/kNN Regressao com sklearn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Regressão/Erri quadrático médio.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Regressão/kNN Regressão - Dataset Diabestes.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Classificação/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Classificação/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Classificação/Untitled1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="99" column="27" lean-forward="false" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="72" column="37" lean-forward="false" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/Redes Neurais com PyBrain - Iris Dataset.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/Adicionando camadas escondidas com PyBrain.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pybrain/supervised/trainers/backprop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="160" column="63" lean-forward="true" selection-start-line="160" selection-start-column="19" selection-end-line="160" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN - Classificação/Untitled1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/rede_neural.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#36#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/iris.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="151" column="0" lean-forward="true" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/PyBrain - Iris DataSet parte 2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redes Neurais/teste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="n#link#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="61" lean-forward="true" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
